@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: DecryptX
+Version: 1.0.0
+Summary: Password and hash cracker
+Author: Cedrick Andanje
+Author-email: rootaccessdenied4312@gmail.com
+Requires-Dist: collections
+Requires-Dist: hashlib
+Requires-Dist: argparse
+Requires-Dist: io
+Requires-Dist: os
+Requires-Dist: colorama
+Requires-Dist: time
